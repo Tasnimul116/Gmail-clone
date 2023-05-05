@@ -1,24 +1,2 @@
-# gmail
+This is a Vue js-based fronted gmail clone project. Tailwind CSS and the Material UI Icon were used.  
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
